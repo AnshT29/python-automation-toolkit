@@ -15,7 +15,7 @@ Features:
 * Organizes documents and spreadsheets
 * Reduces manual file management
 
-### 2. Log Analyzer
+### 2. Log Organizer
 
 Processes log files and extracts operational insights.
 
@@ -63,3 +63,17 @@ Features:
 ## Author
 
 Ansh Theodore
+
+## Screenshots
+
+### File Organizer
+
+![File Organizer](file_organizer_output.png)
+
+### Log Organizer
+
+![Log Organizer](log_organizer_output.png)
+
+### Sales Report Generator
+
+![Sales Report Generator](sales_report_output.png)
