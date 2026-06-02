@@ -1,0 +1,11 @@
+Sales Report
+============
+Total Sales: 92000
+Total Employees: 5
+Average Sales: 18400.0
+
+Highest Sales Employee: Sarah
+Highest Sales: 25000
+
+Lowest Sales Employee: Mike
+Lowest Sales: 12000

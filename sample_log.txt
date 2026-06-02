@@ -1,0 +1,9 @@
+INFO User logged in
+INFO File uploaded
+ERROR Database connection failed
+INFO User logged out
+ERROR Invalid password
+WARNING Low disk space
+INFO New account created
+ERROR Timeout occurred
+ERROR Payment gateway unavailable
