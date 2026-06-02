@@ -62,4 +62,4 @@ Features:
 
 ## Author
 
-Ansh
+Ansh Theodore
